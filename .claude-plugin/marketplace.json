@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "description": "Reusable Claude Code skills. Each skill ships as its own plugin, so you install only what you need.",
+  "owner": {
+    "name": "John Merga"
+  },
+  "plugins": [
+    {
+      "name": "write-doc",
+      "description": "Write and edit technical documentation for developers following the Google developer documentation style guide. Use when creating or revising a README, CONTRIBUTING file, changelog, runbook, migration guide, API reference, tutorial, how-to, ADR, or any written instructions meant for other developers.",
+      "category": "documentation",
+      "keywords": ["documentation", "writing", "style-guide", "readme", "technical-writing"],
+      "source": "./plugins/write-doc"
+    }
+  ]
+}

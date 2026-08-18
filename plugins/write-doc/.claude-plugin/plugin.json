@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "write-doc",
+  "version": "0.1.0",
+  "description": "Write and edit technical documentation for developers following the Google developer documentation style guide. Use when creating or revising a README, CONTRIBUTING file, changelog, runbook, migration guide, API reference, tutorial, how-to, ADR, or any written instructions meant for other developers.",
+  "author": {
+    "name": "John Merga"
+  },
+  "keywords": ["documentation", "writing", "style-guide", "technical-writing"]
+}
