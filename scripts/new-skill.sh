@@ -66,7 +66,7 @@ $DESC
 ## Install
 
 \`\`\`
-/plugin marketplace add OWNER/claude-skills
+/plugin marketplace add johnmerga/claude-skills
 /plugin install $NAME@claude-skills
 \`\`\`
 

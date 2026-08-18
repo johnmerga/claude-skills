@@ -11,11 +11,10 @@ Each skill is its own plugin, so you install only the ones you want.
 
 ## Installation
 
-Run both commands inside Claude Code. Replace `OWNER` with the GitHub account that hosts this
-repository.
+Run both commands inside Claude Code.
 
 ```
-/plugin marketplace add OWNER/claude-skills
+/plugin marketplace add johnmerga/claude-skills
 /plugin install write-doc@claude-skills
 ```
 

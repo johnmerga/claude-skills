@@ -9,7 +9,7 @@ tutorial, how-to, architecture decision record, or any instructions written for 
 ## Install
 
 ```
-/plugin marketplace add OWNER/claude-skills
+/plugin marketplace add johnmerga/claude-skills
 /plugin install write-doc@claude-skills
 ```
 
